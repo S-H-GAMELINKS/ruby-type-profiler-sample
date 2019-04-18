@@ -1,0 +1,3 @@
+[submodule "ruby-type-profiler"]
+	path = ruby-type-profiler
+	url = https://github.com/mame/ruby-type-profiler.git
